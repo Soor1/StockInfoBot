@@ -6,7 +6,7 @@ StockBot is a Discord bot designed to fetch various stock data based on user inp
 
 ### Adding the Bot to Your Discord Server
 
-To add StockBot to your Discord server, follow these steps:
+To add StockBot to your Discord server go to this link (if the commands don't work when you add it that means I'm not paying for a server to host the bot at the moment):
 
 1. Go to this link: https://discord.com/oauth2/authorize?client_id=1241418921014464512
 
