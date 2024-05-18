@@ -6,7 +6,7 @@ StockBot is a Discord bot designed to fetch various stock data based on user inp
 
 ### Adding the Bot to Your Discord Server
 
-To add StockPull to your Discord server, follow these steps:
+To add StockBot to your Discord server, follow these steps:
 
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications/) and create a new bot with a name of your choice.
 2. Navigate to the Bot tab and enable all three Privileged Gateway Intents.
@@ -27,4 +27,4 @@ To run the bot locally on your machine, follow these steps:
 
 ## Author
 
-StockPull was created by Soor Hansalia.
+StockBot was created by Soor Hansalia.
