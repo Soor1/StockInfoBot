@@ -26,6 +26,7 @@ To run the bot locally on your machine and make custom changes follow these step
    - `npm init -y` (sets up project info) (in the package.json under main change it to src/index.js instead of index.js)
    - `npm install discord.js` (installs the package required to interact with Discord)
    - `npm install -g nodemon` (installs nodemon, a utility that monitors for changes and automatically restarts the server)
+   - `npm install dotenv` (allows you to store your API keys in an environment var)
 10. Create a .env file at the same directory level as your package.json and inside add two things
    - DISCORD_BOT_TOKEN=Your Discord Token I said to copy earlier
    - POLY_API_KEY=Your Polygon Api key from your Polygon Dashboard
