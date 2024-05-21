@@ -29,7 +29,7 @@ const discKey = process.env.DISCORD_BOT_TOKEN;
 client.login(discKey);
 
 client.on('messageCreate', async (message) => {
-    if (message.author.bot) return; // Ignore messages from bots
+    if (message.author.bot) return;
 
     if (message.content === '!commands') {
         message.reply('!commands - List all available commands\n' +
